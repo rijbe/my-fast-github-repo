@@ -1,5 +1,6 @@
-p{
+div{
     background-color: cadetblue;
     justify-content: center;
     padding: 10px;
+    margin-bottom: 10px;
 }
